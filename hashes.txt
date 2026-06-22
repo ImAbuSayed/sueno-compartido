@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sueño compartido
+
+This log tracks the cryptographic history and versioning for the song **Sueño compartido** (sueno-compartido).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T03:46:56.129002 | `v1` | `20d513126588861267d14a7af75fe6726e97e3172d0bb7c6ac4b2e7bfc74b72b` | `54d65abccfdd629b1c0049c508b732bac097e4a551cdf0f09cf87511c5806e63` | `2026-06-23_sueno-compartido-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
