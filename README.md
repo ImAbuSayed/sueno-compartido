@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Late night whisper, you're my addiction
+> Body moving with no restriction
+> Lost in the rhythm, your perfect prediction
+> Sueño compartido, we're on a collision
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
